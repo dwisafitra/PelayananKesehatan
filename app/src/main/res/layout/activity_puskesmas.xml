@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/colorPuskesmas">
 
-    <ProgressBar
+    <ProgressBars
         android:id="@+id/pbClinic"
         style="?android:attr/progressBarStyle"
         android:layout_width="wrap_content"
