@@ -16,10 +16,6 @@ import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 
-/**
- * Created by Azhar Rivaldi on 22-12-2019.
- */
-
 class HelpActivity : AppCompatActivity() {
 
     val content = "1. Untuk melihat daftar tempat praktek Dokter, Tap bagian Praktek Dokter " +
