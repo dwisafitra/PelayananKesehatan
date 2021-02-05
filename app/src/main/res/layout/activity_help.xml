@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorHelpLayout"
-    tools:context="com.tempatpelayasnankesehatan.tpk.activities.HelpActivity">
+    tools:context="com.tempatpelayanankesehatan.tpk.activities.HelpActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
